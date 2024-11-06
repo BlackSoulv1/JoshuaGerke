@@ -1,4 +1,4 @@
-# JoshuaGerke
+
 German Translation File [FREE DOWNLOAD]   Überarbeitete Version von Joshua Altersberger
 
 German Translation for the Game "Fields of Mistria"
